@@ -7,6 +7,8 @@ This repository contains the implementation of a machine learning system designe
 Before running this project, ensure you have the following installed:
 - Python 3.x
 - Pip (Python package installer)
+- node js installed
+- git installed
 
 ## Installation
 
